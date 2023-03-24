@@ -20,6 +20,7 @@ namespace Genshin.Automation
 
         private void PointSetting_Load(object sender, EventArgs e)
         {
+            Debug.WriteLine("Test");
         }
     }
 }
