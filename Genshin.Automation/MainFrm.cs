@@ -53,12 +53,12 @@ namespace Genshin.Automation
 
             ReadSetting(iniFilePath, "Point", "", "");
 
-            // 实例化新窗口
+           /* // 实例化新窗口
             RectangleSelectorFrm selectionForm = new RectangleSelectorFrm();
 
             // 显示新窗口
             this.Hide();
-            selectionForm.Show();
+            selectionForm.Show();*/
             //MessageBox.Show(selectionForm.selectionRectangle.X+","+ selectionForm.selectionRectangle.Y + "," + selectionForm.selectionRectangle.Width + "," + selectionForm.selectionRectangle.Height);
         }
         
