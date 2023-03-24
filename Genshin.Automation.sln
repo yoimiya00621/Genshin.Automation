@@ -1,0 +1,41 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33516.290
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Genshin.Automation", "Genshin.Automation\Genshin.Automation.csproj", "{0EF15953-B56C-43A9-9A1B-8292BD3EA874}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Snap.Hutao.Service.Game.Unlocker", "Snap.Hutao.Service.Game.Unlocker\Snap.Hutao.Service.Game.Unlocker.csproj", "{DBD7F307-97EC-43A4-BE59-6A0E6278E49A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0EF15953-B56C-43A9-9A1B-8292BD3EA874}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0EF15953-B56C-43A9-9A1B-8292BD3EA874}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0EF15953-B56C-43A9-9A1B-8292BD3EA874}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{0EF15953-B56C-43A9-9A1B-8292BD3EA874}.Debug|x64.Build.0 = Debug|Any CPU
+		{0EF15953-B56C-43A9-9A1B-8292BD3EA874}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0EF15953-B56C-43A9-9A1B-8292BD3EA874}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0EF15953-B56C-43A9-9A1B-8292BD3EA874}.Release|x64.ActiveCfg = Release|Any CPU
+		{0EF15953-B56C-43A9-9A1B-8292BD3EA874}.Release|x64.Build.0 = Release|Any CPU
+		{DBD7F307-97EC-43A4-BE59-6A0E6278E49A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DBD7F307-97EC-43A4-BE59-6A0E6278E49A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DBD7F307-97EC-43A4-BE59-6A0E6278E49A}.Debug|x64.ActiveCfg = Debug|x64
+		{DBD7F307-97EC-43A4-BE59-6A0E6278E49A}.Debug|x64.Build.0 = Debug|x64
+		{DBD7F307-97EC-43A4-BE59-6A0E6278E49A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DBD7F307-97EC-43A4-BE59-6A0E6278E49A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DBD7F307-97EC-43A4-BE59-6A0E6278E49A}.Release|x64.ActiveCfg = Release|x64
+		{DBD7F307-97EC-43A4-BE59-6A0E6278E49A}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {78DBDA55-8028-4277-BA1C-4B666F22926B}
+	EndGlobalSection
+EndGlobal
