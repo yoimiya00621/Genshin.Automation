@@ -36,7 +36,7 @@ namespace Genshin.Automation
         //定义自己的方法
         public static bool WriteSetting(string iniFilePath, string section, string key, string value)
         {
-            return (0 == WritePrivateProfileString(section, key, value, iniFilePath) ? false : true);
+            return 0 == WritePrivateProfileString(section, key, value, iniFilePath) ? false : true;
         }
 
         public static string ReadSetting(string iniFilePath, string section, string key, string defaultValue)
